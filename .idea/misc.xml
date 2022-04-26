@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/drawable/colors.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/drawable/stat.xml" value="0.2203125" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_add.xml" value="0.1721014492753623" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_basket.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_cat.xml" value="0.33" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_details.xml" value="0.18" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_items.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_transactions_viewing.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_update_stock.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_view_orders.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/activity_view_orders2.xml" value="0.3101449275362319" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/admincontrolallorders.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/allsolditem.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/categorycontrolpanel.xml" value="0.16983695652173914" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/categoryview.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/editlayout.xml" value="0.18659420289855072" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/itemcontrolpanel.xml" value="0.33" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/itemview.xml" value="0.33" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/orderlayout.xml" value="0.1721014492753623" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/transactionviewdata.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/layout/userviewlayout.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/menu/adminmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/android/AndroidStudioProjects/Finalproject/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

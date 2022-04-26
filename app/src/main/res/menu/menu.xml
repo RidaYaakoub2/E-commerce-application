@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/basket"
+        android:actionBarItemBackground="@color/black"
+        android:icon="@drawable/basket"
+        android:itemBackground="@color/black"
+        android:title="BAS"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/ShowitemAct"
+        android:actionBarItemBackground="@color/black"
+        android:itemBackground="@color/black"
+        android:title="Items"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/ShowCatAct"
+        android:title="Categories"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/vieworders"
+        android:actionBarItemBackground="@color/black"
+        android:itemBackground="@color/black"
+        android:title="Previous Orders"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/logout"
+        android:actionBarItemBackground="@color/black"
+        android:icon="@drawable/logout"
+        android:itemBackground="@color/black"
+        android:title="Logout"
+        app:showAsAction="never"></item>
+</menu>

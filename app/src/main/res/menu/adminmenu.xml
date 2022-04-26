@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ShowCatAct"
+        android:title="Categories"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/ShowitemAct"
+        android:title="Items"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/vieworders"
+        android:title="ViewAllOrders"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/viewSolditems"
+        android:title="Some Stat"
+        android:icon="@drawable/stat"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/ViewLogin"
+        android:title="ViewLoginHistory"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/ViewCrud"
+        android:title="View CRUD Actions"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        android:itemBackground ="@color/black"
+        android:actionBarItemBackground ="@color/black"
+        app:showAsAction="never"></item>
+
+
+
+
+</menu>
